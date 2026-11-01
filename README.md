@@ -4,7 +4,7 @@ An offline, browser-based demonstration of a probabilistic Texas Hold'em decisio
 
 ## Live demo
 
-**[Open the interactive demo](https://raw.githack.com/RolanthHuang/texas_poker_handstrength/main/index.html)**
+**[Open the interactive demo](https://rolanthhuang.github.io/texas_poker_handstrength/)**
 
 The project is a self-contained static site. You can also download and open `index.html` directly.
 
